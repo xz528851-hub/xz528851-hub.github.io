@@ -1,12 +1,6 @@
----
-layout: home
-permalink: /
-title: "Xinyue Zhao"
----
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/xz528851-hub)
 
-
-
-Xinyue Zhao is an undergraduate student majoring in Communication Engineering at Jilin University.
+She is an undergraduate student majoring in Communication Engineering at Jilin University.
 
 #### Contact
 Phone: 13721048438  
