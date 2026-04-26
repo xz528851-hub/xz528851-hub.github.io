@@ -1,4 +1,4 @@
-[![xz528851-hub](https://img.shields.io/badge/xz528851-hub-github-blue?logo=github)](https://github.com/xz528851-hub)
+🔗 [GitHub](https://github.com/xz528851-hub) &nbsp;|&nbsp; 📚 [Google Scholar](https://scholar.google.com/citations?user=xinyue2005z)
 
 She is an undergraduate student majoring in Communication Engineering at Jilin University.
 
