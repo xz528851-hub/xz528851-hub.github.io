@@ -1,4 +1,4 @@
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/xz528851-hub)
+[![xz528851-hub](https://img.shields.io/badge/xz528851-hub-github-blue?logo=github)](https://github.com/xz528851-hub)
 
 She is an undergraduate student majoring in Communication Engineering at Jilin University.
 
