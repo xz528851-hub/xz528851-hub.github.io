@@ -6,3 +6,8 @@ copyright-text: '&copy; Xinyue Zhao 2023-2027 All Rights Reserved.'
 
 url: "https://xz528851-hub.github.io"
 baseurl: ""
+
+social:
+  - type: github
+    icon: fab fa-github
+    url: "https://github.com/xz528851-hub"
