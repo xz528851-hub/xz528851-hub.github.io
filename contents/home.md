@@ -1,17 +1,23 @@
+---
+layout: home
+permalink: /
+title: "Xinyue Zhao"
+---
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Xinyue Zhao is an undergraduate student majoring in Communication Engineering at Jilin University.
 
 #### Contact
-
-Email: user[at]fas.harvard.edu
+Phone: 13721048438  
+Email: zhaoxy2023@mails.jlu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.Eng., Communication Engineering, Jilin University, 2023.09 – Present  
+GPA: 3.7228/4, Rank: 25/302 (Top 9%)
+
+#### English
+CET-4: 594; CET-6: 521
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+Deep Learning; Intelligent Image Detection; Image Processing; Communication Engineering; DAS Data Denoising
